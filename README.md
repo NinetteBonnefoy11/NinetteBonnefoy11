@@ -1,5 +1,6 @@
 ### Bonjour, queridos espectadores! ✨
 Me presento, mi nombre es "Ninette Bonnefoy", es para mi un placer conocerles.
+
 Actualmente me encuentro cursando el segundo grado de secundaria.
 
 Mis pasatiempos son:
