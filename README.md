@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**NinetteBonnefoy11/NinetteBonnefoy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bonjour, queridos espectadores! ✨
+Me presento, mi nombre es "Ninette Bonnefoy", es para mi un placer conocerles.
+Actualmente me encuentro cursando el segundo grado de secundaria.
+Mis pasatiempos son:
+- Dibujar.
+- Escribir historias.
+- Escuchar música.
+- Ver series y películas.
+- Leer.
+Algunos temas de mi intéres son la historia, la poesia y el arte.
+Lo que espero durante este curso de fundamentos de programación web es poder divertirme y aprender cosas nuevas.
+Eso seria todo por el momento, adieu. ✨
