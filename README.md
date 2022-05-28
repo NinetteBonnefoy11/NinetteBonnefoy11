@@ -10,5 +10,7 @@ Mis pasatiempos son:
 - Leer.
 
 Algunos temas de mi intéres son la historia, la poesia y el arte.
+
 Lo que espero durante este curso de fundamentos de programación web es poder divertirme y aprender cosas nuevas.
+
 Eso seria todo por el momento, adieu. ✨
