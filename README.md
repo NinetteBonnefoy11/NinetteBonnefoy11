@@ -1,5 +1,5 @@
 ### Bonjour, queridos espectadores! ✨
-Me presento, mi nombre es "Ninette Bonnefoy", es para mi un placer conocerles.
+Me presento, mi nombre es Nicole Martínez, registrada en esta plataforma como "Ninette Bonnefoy", es para mi un placer conocerles.
 
 Actualmente me encuentro cursando el segundo grado de secundaria.
 
